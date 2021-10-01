@@ -18,6 +18,9 @@
     "autoload": {
         "classmap": [
             "fpdf.php"
+        ],
+        "files": [
+            "makefont/makefont.php"
         ]
     },
     "require": {
